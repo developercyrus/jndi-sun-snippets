@@ -1,0 +1,1 @@
+insert into javase_jndi_sun_example2.language (id, symbol) values (1, 'EN');
